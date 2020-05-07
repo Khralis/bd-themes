@@ -1,0 +1,23 @@
+/**
+ * @name         Goose ALT
+ * @description  honk
+ * @author       Khralis
+ * @version      1.0
+ **/
+@import "https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css";
+@import "https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css";
+
+:root {
+  --roundness: 145px; /* edit roundness of icons */
+  --main-color: #FF295F; /* Main Color */
+  --hover-color: #23FFE2; /* Hover Color */
+  --home-color: #FF295F; /* Change home icon color */
+  --home-size: 24px; /* size of the home icon */
+  --shadow: rgba(35,255,225,0.5); /* change to darken lighten, or set to transparent */
+  --background-image: url(https://i.imgur.com/HxVri4e.png); /* change background */
+  --background-blur: 0px; /* Main Background Blur */
+  --popup-background: url(https://i.imgur.com/HxVri4e.png);  /* Background for popups and modals */
+  --server-icon-size: 45px; /* Size of the server icons | DEFAULT: 35px */
+  --server-icon-spacing: 20px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
+  --server-container-padding: 5px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
+}

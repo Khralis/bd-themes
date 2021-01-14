@@ -1,0 +1,12 @@
+/**
+ * @name Translucence X ClearVision
+ * @version 1.0
+ * @description Translucence Theme with the background from Clearvison v6
+ * @author CapnKitten,Zerthox,Khralis
+ *
+ * @website http://github.com/Khralis
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+:root{
+    --app-bg: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+}

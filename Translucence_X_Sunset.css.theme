@@ -1,0 +1,12 @@
+/**
+ * @name Translucence X Sunset
+ * @version 1.0
+ * @description Translucence Theme with the background from Sunset By ShadowDevilsAvenged
+ * @author CapnKitten,ShadowDevilsAvenged,Khralis
+ *
+ * @website http://github.com/Khralis/bd-themes
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+:root{
+    --app-bg: url(https://c.wallhere.com/photos/b3/e3/aircraft_sunset_minimalism_mountains_Moon_digital_art-84654.png!d);
+}

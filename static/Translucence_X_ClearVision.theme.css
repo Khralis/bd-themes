@@ -1,0 +1,18 @@
+/**
+ * @name Translucence X ClearVision
+ * @version 1.0
+ * @description Translucence theme with the background from Clearvison v6
+ * @author CapnKitten,Zerthox,Khralis
+ *
+ * @website http://github.com/Khralis
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css);
+:root{
+    --app-bg: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+    --app-accent: #3c2faf;
+    --app-blur: 1px;
+    --server-icon-size: 52px; /* Size of the server icons | DEFAULT: 35px */
+    --server-icon-spacing: 4px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
+    --server-container-padding: 6px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
+}

@@ -1,3 +1,2 @@
 # bd-themes
-themes for better discord
-requested by some users on discord drop in your better discord theme folder to use.
+Themes for Better Discord I Fixed,Tweaked, or made on request. Drop the xxxxx.theme.css files into the themes folder and toggle on to use.

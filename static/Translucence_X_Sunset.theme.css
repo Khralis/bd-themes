@@ -1,0 +1,18 @@
+/**
+ * @name Translucence X Sunset
+ * @version 1.0
+ * @description Translucence theme with the background from Sunset By ShadowDevilsAvenged
+ * @author CapnKitten,ShadowDevilsAvenged,Khralis
+ *
+ * @website http://github.com/Khralis/bd-themes
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css);
+:root{
+    --app-bg: url(https://c.wallhere.com/photos/b3/e3/aircraft_sunset_minimalism_mountains_Moon_digital_art-84654.png!d);
+    --app-accent: #b1164a;
+    --app-blur: 4px;
+    --server-icon-size: 52px; /* Size of the server icons | DEFAULT: 35px */
+    --server-icon-spacing: 4px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
+    --server-container-padding: 6px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
+}

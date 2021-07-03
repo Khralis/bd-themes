@@ -1,0 +1,19 @@
+/**
+ * @name Translucence X Waterfall
+ * @version 1.0
+ * @description Translucence Theme with a waterfall
+ * @author CapnKitten,Khralis
+ *
+ * @website http://github.com/Khralis/bd-themes
+ */
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css);
+:root{
+    --app-bg: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FlS2oDmh.gif&f=1&nofb=1);
+    --app-accent: #8ab676c9;
+    --app-blur: 2px;
+    --popup-background: url(https://i.imgur.com/HxVri4e.png);  /* Background for popups and modals  */
+    --server-icon-size: 52px; /* Size of the server icons | DEFAULT: 35px */
+    --server-icon-spacing: 4px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
+    --server-container-padding: 6px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
+}

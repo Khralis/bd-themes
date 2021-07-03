@@ -1,18 +1,17 @@
 /**
- * @name Translucence X Ubuntu
- * @version 1.1
- * @description Translucence theme with a Ubuntu background
- * @author CapnKitten
- * 
+ * @name Translucence X Adventure Time 2
+ * @version 1.0
+ * @description Translucence Theme with an animated Adventure Time background
+ * @author CapnKitten,Khralis
+ *
  * @website http://github.com/Khralis/bd-themes
  */
-
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 @import url(https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css);
 :root{
-    --app-bg: url(https://i.imgur.com/bf5MkTp.jpg);
-    --app-accent: #b1164a;
-    --app-blur: 1px;
+    --app-bg: url(https://i.imgur.com/NcBwZf0.gif);
+    --app-accent: #7179e6;
+    --app-blur: 0px;
     --server-icon-size: 52px; /* Size of the server icons | DEFAULT: 35px */
     --server-icon-spacing: 4px; /* Spacing between server icons. Negative values are allowed | DEFAULT: 8px */
     --server-container-padding: 6px; /* Spacing to the left and right sides of server icons | DEFAULT: 10px */
